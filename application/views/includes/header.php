@@ -41,12 +41,12 @@
       <a href="#" class="drop">Contributors</a>
           <div class="dropdown_3columns align_right">
               <div class="col_1">          
-            <h3>Faculty</h3>  
+            <h3>Contributors</h3>  
                   <ul class="greybox">
-                        <?php foreach ($contributors['faculty'] as $person): ?>
+                        <?php foreach ($contributors['contributors'] as $person): ?>
                         <li><?= anchor('apollon/bio/'.$person['id'], $person['title'])?></li>
                         <?php endforeach; ?>
-                        <li><?=anchor('apollon/faculty','Affiliated Faculty')?></li>
+                        <li><?=anchor('apollon/contributors','Affiliated Contributors')?></li>
                   </ul>   
               </div>
               <div class="col_1">

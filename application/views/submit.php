@@ -10,7 +10,7 @@
     
     </h1>
     <div id="left-section">
-    	<h5>Apollon Undergraduate e-Journal</h5>
+    	<h5>Apollon Independent e-Journal</h5>
       <p>Use the form to submit a .pdf or .doc.  
       Please follow the 
       <?php

@@ -1,7 +1,7 @@
-<article class="faculty">
+<article class="contributors">
 <!-- Content -->
 
-<h1>Affiliated Faculty</h1>
+<h1>Affiliated Contributors</h1>
 
 <?php foreach($list as $row): ?>
   

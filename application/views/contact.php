@@ -2,8 +2,8 @@
 <article>
     <h1>Contact</h1>
     <div id="left-section">
-    	<h5>Apollon Undergraduate e-Journal</h5>
-    <a href="mailto:andrew_smith@berea.edu">
+    	<h5>Legacy Journal</h5>
+    <a href="mailto:editor@example.com">
     <p class="read-more">
     	<img src="<?= base_url() ?>images/icon-email.png" />
         <span class>e-mail us!</span>

@@ -4,7 +4,7 @@ class Navigation_model extends Model {
 
     function get_contributors()
     {
-        $categories = array('content', 'design', 'faculty');
+        $categories = array('content', 'design', 'contributors');
         $array = array();
         foreach ($categories as $category)
         {

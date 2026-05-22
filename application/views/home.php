@@ -46,9 +46,7 @@
       <img class="img-left" src="<?=base_url()?>images/contributors/katherine-janson.jpg" alt="Katherine Janson" />
 
         <h4>Katherine Janson</h4>
-        <p>Katherine Janson is a recent graduate from Randolph College (founded as Randolph-Macon 
-        Woman's College) in Lynchburg, Virginia. She graduated Cum Laude in May 2010 with a BA in 
-        Classics and minors in Philosophy and Psychology.</p>
+        <p>This archived contributor profile preserves the original journal layout while omitting personal academic details.</p>
   </section>
     <div class="clear"></div>
 </div>

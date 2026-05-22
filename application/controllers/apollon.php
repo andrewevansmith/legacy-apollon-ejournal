@@ -4,7 +4,7 @@ class Apollon extends Controller {
 
     function index() 
     {         
-        $title['title'] = "Apollon: A Peer-Reviewed Undergraduate eJournal";       
+        $title['title'] = "Apollon: A Peer-Reviewed Independent eJournal";       
         $footer['toolbar'] = false;
         $this->load->view('includes/docinfo', $title);
         $nav = $this->make_navigation();
@@ -110,9 +110,9 @@ class Apollon extends Controller {
     } 
   }
   
-  function faculty()
+  function contributors()
   {
-      $title['title'] = "Affiliated Faculty | Apollon";      
+      $title['title'] = "Affiliated Contributors | Apollon";      
       $list['list'] = $this->profile_model->get_list_others(); 
       $footer['toolbar'] = false;
       $this->load->view('includes/docinfo', $title);

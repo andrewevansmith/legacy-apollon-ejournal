@@ -25,7 +25,7 @@ class Profile_model extends Model {
         $count = 0;
         $temp_array = array();
         
-        $query = $this->db->query("SELECT title FROM faculty");
+        $query = $this->db->query("SELECT title FROM contributors");
         $row = $query->result_array();
         
         // -- sorting by last name  
@@ -60,7 +60,7 @@ class Profile_model extends Model {
             {
               $name = $test;
             }
-            $query = $this->db->query("SELECT * FROM faculty WHERE title ='$name'");
+            $query = $this->db->query("SELECT * FROM contributors WHERE title ='$name'");
             //print_r($query->result_array());
             $temp = $query->result_array();
             $new_list[$count] = $temp[0];
