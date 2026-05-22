@@ -35,7 +35,7 @@
   <section id="featured-article">
     <h4><strong>Featured Paper:</strong> <em>The Jurymen</em></h4>
 
-    <p>Written  by Katherine Janson, <em>The Jurymen</em> is a comedic dialogue that seeks to 
+    <p><em>The Jurymen</em> is a comedic dialogue that seeks to 
     enlighten modern readers using  the Socratic method as its touchpoint. A research-based play, it is 
      built upon extensive study of the lives, philosophic principles, and  historic context of the two 
      inseparable ancient thinkers, Plato and  Socrates, and seeks to &ldquo;put the conversation on 
@@ -43,9 +43,9 @@
     <p><?=anchor('apollon/article/1', 'Read full paper')?></p>
     </section>
   <section id="featured-contributor">
-      <img class="img-left" src="<?=base_url()?>images/contributors/katherine-janson.jpg" alt="Katherine Janson" />
+      <img class="img-left" src="<?=base_url()?>images/contributors/featured-contributor.jpg" alt="Featured contributor" />
 
-        <h4>Katherine Janson</h4>
+        <h4>Featured Contributor</h4>
         <p>This archived contributor profile preserves the original journal layout while omitting personal academic details.</p>
   </section>
     <div class="clear"></div>
