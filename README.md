@@ -1,6 +1,6 @@
 # Legacy Apollon eJournal
 
-Archived PHP site for Apollon eJournal, circa 2010. This was a live journal site, not a prototype.
+Archived PHP site for Apollon eJournal, circa 2010. This was a live journal site.
 
 ## What this shows
 
