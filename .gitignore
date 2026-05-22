@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+*.tmp
+vendor/
+node_modules/
+uploads/tmp/
+system/cache/*
+!system/cache/index.html
+

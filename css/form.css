@@ -1,0 +1,24 @@
+label, input, textarea {display: block; margin: 5px; width: 200px; }
+textarea {width: 250px; height: 100px;}
+input, textarea {
+	padding: 3px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 2px solid #ccc;
+}
+input:focus, textarea:focus {
+	border: 2px solid orange;
+}
+button {
+	padding: 5px;
+	background: url(../images/background-featured.jpg);
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #dfbb8f;
+	color: #656049;
+	font-style: italic;
+	text-decoration: none;
+	font-weight: bold;
+}

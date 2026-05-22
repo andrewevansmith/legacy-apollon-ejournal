@@ -1,0 +1,151 @@
+
+h1 {
+	margin-top: 0 !important;
+	line-height: 120% !important;
+}
+
+
+article {
+	margin: 0 50px;
+	font-size: .9em;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: solid #ccc 1px;
+}
+
+article>p {
+	color: #271F16;
+	text-align: justify;
+	text-indent: 22px;
+	margin-left: 90px;
+	margin-right: 90px;
+	line-height: 150%;
+	font-size: 1.1em !important;
+}
+
+section#references {
+	margin-left: 90px;
+	margin-right: 90px;
+	text-indent: 0;
+	font-size: .8em;
+	color: #666;
+}
+
+article>h1,article>h2,article>h3,article>h4,article>h5,article>h6 {
+	margin: 20px 90px;
+}
+
+blockquote {
+	padding: 2px 25px;
+	color: #656049;
+	font-size: 1em;
+	font-style: italic;
+	margin: 0 110px;
+	border-left: 3px solid #bbb;
+	border-right: 3px solid #ddd;
+}
+
+
+
+article>h1 {
+	margin: 15px auto;
+	text-align: center;
+	font-size: 2em;
+	font-weight: normal;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #CCC;
+	width: 550px;
+}
+
+section#author {
+	padding: 10px;
+	margin: 25px 15px 0px 15px;
+	float: right;
+	background: url(../images/background-featured.jpg);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #dfbb8f;
+	width: 320px;
+}
+
+section#author>img {
+	border: 2px solid #dfbb8f;
+	margin: 0 8px;
+	margin-top: 10px;
+	float: left;
+}
+
+section#author>p {
+	line-height: 130%;
+	font-size: .9em;
+	text-align: left;
+	text-indent: 0;
+	font-style: italic;
+}
+
+section#author>h2 {
+	font-size: 1.1em;
+	font-variant: normal !important;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #8b6435;
+	margin-top: 5px;
+}
+
+h1>a>img {
+	padding: 3px;
+	background: url(../images/background-featured.jpg);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #dfbb8f;
+	margin-top: 15px;
+}
+
+article>h3 {
+	font-size: 18px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+}
+
+article>p {
+	font-size: 1em !important;
+}
+
+
+cite {
+  display: block;
+  text-align: center;
+  font-size: .9em;
+  color: #555;
+}
+
+article>ol {
+  color: #271F16;
+  text-align: justify;
+  text-indent: 22px;
+  margin-left: 120px;
+  margin-right: 120px;
+  line-height: 130%;
+  font-size: 1em !important;
+  list-style-type: lower-roman; 
+}
+
+article>ol>li {
+  margin: 15px;
+}
+
+article>ul p {margin: 15px 90px -5px 75px;}
+
+article a:hover {
+  border-bottom: 1px dotted #4F5155;
+  color: #4F5155;
+}
+
+article li>a {border-bottom: none;}
+
+article.faculty h3 {
+   margin-bottom: 7px !important;
+}
+
