@@ -1,20 +1,21 @@
-# Legacy Apollo Journal
+# Legacy Apollon eJournal
 
-Archived PHP journalism/CMS prototype, circa 2010.
+Archived PHP site for Apollon eJournal, circa 2010. This was a live journal site, not a prototype.
 
 ## What this shows
 
-- Early custom publishing workflow work in PHP.
+- Custom publishing workflow work in PHP.
 - Template-driven pages, article imagery, uploads, and editorial assets.
-- CodeIgniter-era application structure and hand-built front-end styling.
+- CodeIgniter-era application structure from a real public editorial site.
+- Hand-built front-end styling for issue pages, contributors, article views, and journal navigation.
 
 ## Archive Status
 
-This project is preserved for portfolio reference. It may require an older PHP runtime and legacy framework assumptions to run. The value of the repository is historical context and product shape, not production readiness.
+This project is preserved for portfolio reference. It reflects the structure of a live 2010-era journal website, but it may require an older PHP runtime and legacy framework assumptions to run today.
 
 ## Cleanup Notes
 
 - Removed legacy Mercurial metadata and IDE project files.
 - Removed conflicted-copy artifacts and generated temporary files.
-- Left original visual assets and application structure in place where they help explain the project.
-
+- Removed personal contact details and contributor identity artifacts from the public archive.
+- Left the original application structure in place where it helps explain the live site.
